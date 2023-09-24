@@ -336,7 +336,7 @@ label {
   vertical-align: middle;
 }
 .page-home .overlay {
-  background-color: rgba(255, 255, 255, 0.93);
+  background-color: rgba(255, 255, 255, 0.237);
 }
 
 /* End of container */
@@ -675,6 +675,22 @@ label {
 .history-item h5 {
   color: #fff;
   font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.96px;
+  text-transform: uppercase;
+}
+
+.history-item h3 {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.96px;
+  text-transform: uppercase;
+}
+
+.history-item h2 {
+  color: #fff;
+  font-size: 8px;
   font-weight: 600;
   letter-spacing: 0.96px;
   text-transform: uppercase;
